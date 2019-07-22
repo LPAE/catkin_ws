@@ -7,7 +7,5 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/lpaeros/catkin_ws/devel:$CMAKE_PREFIX_PATH"
+export PKG_CONFIG_PATH="/home/lpaeros/catkin_ws/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/home/lpaeros/catkin_ws/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/lpaeros/catkin_ws/devel/share/common-lisp"
-export ROS_PACKAGE_PATH="/home/lpaeros/catkin_ws/src:$ROS_PACKAGE_PATH"

@@ -2,4 +2,4 @@
 source_root_dir = "/home/lpaeros/catkin_ws/src"
 whitelisted_packages = "".split(';') if "" != "" else []
 blacklisted_packages = "".split(';') if "" != "" else []
-underlay_workspaces = "/opt/ros/melodic".split(';') if "/opt/ros/melodic" != "" else []
+underlay_workspaces = "/home/lpaeros/catkin_ws/devel;/opt/ros/melodic".split(';') if "/home/lpaeros/catkin_ws/devel;/opt/ros/melodic" != "" else []

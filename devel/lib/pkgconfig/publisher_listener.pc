@@ -1,0 +1,8 @@
+prefix=/home/lpaeros/catkin_ws/devel
+
+Name: publisher_listener
+Description: Description of publisher_listener
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/lpaeros/catkin_ws/devel/lib 
+Requires: 
